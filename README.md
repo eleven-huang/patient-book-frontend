@@ -1,64 +1,39 @@
-# svelte app
+#Patient Book Frontend
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template-webpack.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template-webpack svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+使用Svelte完成，运行时需要先启动后台api服务器  =》 [https://github.com/eleven-huang/patient-book-frontend](https://github.com/eleven-huang/patient-book-frontend)
 
 
-## Get started
 
-Install the dependencies...
 
-```bash
-cd svelte-app
-npm install
-```
-
-...then start webpack:
 
 ```bash
 npm run dev
 ```
 
-Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and the page should reload with your changes.
 
 
-## Deploying to the web
 
-### With [now](https://zeit.co/now)
+## 界面截图
 
-Install `now` if you haven't already:
+##启动
 
-```bash
-npm install -g now
-```
+![](https://github.com/eleven-huang/patient-book-frontend/raw/master/screenshot/1.png)
 
-Then, from within your project folder:
 
-```bash
-now
-```
 
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
+##填写
 
-### With [surge](https://surge.sh/)
+![](https://raw.githubusercontent.com/eleven-huang/patient-book-frontend/master/screenshot/2.png)
 
-Install `surge` if you haven't already:
 
-```bash
-npm install -g surge
-```
 
-Then, from within your project folder:
+##成功
 
-```bash
-npm run build
-surge public
-```
+![](https://github.com/eleven-huang/patient-book-frontend/raw/master/screenshot/3.png)
+
+
+
+##Admin
+
+![](https://github.com/eleven-huang/patient-book-frontend/raw/master/screenshot/4.png)
+
