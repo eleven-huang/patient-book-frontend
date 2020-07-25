@@ -1,6 +1,6 @@
 # Patient Book Frontend
 
-使用Svelte完成，运行时需要先启动后台api服务器  =》 [https://github.com/eleven-huang/patient-book-frontend](https://github.com/eleven-huang/patient-book-frontend)
+使用Svelte完成，运行时需要先启动后台api服务器  =》 [https://github.com/eleven-huang/patient-book-backend](https://github.com/eleven-huang/patient-book-backend)
 
 
 
