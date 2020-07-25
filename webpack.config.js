@@ -66,8 +66,8 @@ module.exports = {
       contentBase: path.join(__dirname, '../dist'),
       // compress: true,
       host: '0.0.0.0',
-			disableHostCheck: true,
-      // hot:true,
+			//disableHostCheck: true,
+      //hot:true,
       historyApiFallback:true,
       proxy: {
         '/api': {
